@@ -1,6 +1,6 @@
 # Deep-Learning-Courses
 
-嗯，就是这个！
+嗯，就是这个！a^b
 ### 4.3 - Forward and Backward propagation
 
 Now that your parameters are initialized, you can do the "forward" and "backward" propagation steps for learning the parameters.
