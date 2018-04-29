@@ -1,5 +1,5 @@
 # Deep-Learning-Courses
-
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 嗯，就是这个！a^b
 ### 4.3 - Forward and Backward propagation
 
